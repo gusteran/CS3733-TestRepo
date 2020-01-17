@@ -10,5 +10,9 @@
         <module name="CS3733-TestRepo.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CS3733-TestRepo.main" target="1.8" />
+      <module name="CS3733-TestRepo.test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
